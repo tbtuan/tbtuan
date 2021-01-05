@@ -4,12 +4,12 @@
 | -|:-:|
 | [**/useful**](https://github.com/tbtuan/useful) | A collection of links and cheatsheets |
 
-<br />
-
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Figma" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" />
-<img align="left" alt="Javascript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<code><img alt="Visual Studio Code" width="18px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="Figma" width="18px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" /></code>
+<code><img alt="Javascript" width="18px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></code>
+<code><img alt="React" width="18px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" /></code>
+<code><img alt="NodeJS" width="18px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" /></code>
+
+<sub><sup>*Note: These are only prefered languages and tools*</sup></sub>
