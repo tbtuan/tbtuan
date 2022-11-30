@@ -13,3 +13,5 @@
 <code><img alt="NodeJS" width="18px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" /></code>
 
 <sub><sup>*Note: These are only prefered languages and tools*</sup></sub>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tbtuan&layout=compact)
