@@ -3,6 +3,7 @@
 |         |            | 
 | -|:-:|
 | [**/useful**](https://github.com/tbtuan/useful) | A collection of links and cheatsheets |
+| [**lambda**](https://github.com/tbtuan/lambda) | A lisp-like interpreter |
 |         |            | 
 
 ### Tools
