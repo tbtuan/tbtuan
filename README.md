@@ -8,7 +8,7 @@
 
 <code><img alt="Visual Studio Code" width="18px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img alt="Figma" width="18px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" /></code>
-<code><img alt="Figma" width="18px" src="https://raw.githubusercontent.com/github/explore/master/topics/intellij-idea/intellij-idea.png" /></code>
+<code><img alt="IntelliJ" width="18px" src="https://raw.githubusercontent.com/github/explore/master/topics/intellij-idea/intellij-idea.png" /></code>
 
 ### Statistics
 
